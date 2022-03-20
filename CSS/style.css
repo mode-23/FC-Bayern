@@ -7,14 +7,15 @@
     font-family: 'Cairo', sans-serif;
 }
 :root{
-    --body-color: #010a1d;
-    --main-color: #000E29;
-    --alt-color: #121f38;
+    --body-color: #0b0742;
+    --main-color: #120c6e;
+    --alt-color: #5e72eb;
     --style-color: #dc052d;
     --alt-style-color: #c60428;
     --border-color: #a30220;
     --light-color: #fff;
     --dark-color: #000;
+    --sucess-color: #84bd00;
 }
 /* Small */
 @media (min-width: 768px) {
